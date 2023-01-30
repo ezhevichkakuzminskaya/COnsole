@@ -11,6 +11,7 @@ namespace ConsoleAppVI
         static void Main(string[] args)
         {
             Console.WriteLine("+");
+            Console.WriteLine("-");
         }
     }
 }
